@@ -1,0 +1,9 @@
+/home/gustavo/Documentos/workspace/banking-service/src/main/java/com/alura/agencias/controller/AgenciaController.java
+/home/gustavo/Documentos/workspace/banking-service/src/main/java/com/alura/agencias/domain/Agencia.java
+/home/gustavo/Documentos/workspace/banking-service/src/main/java/com/alura/agencias/domain/Endereco.java
+/home/gustavo/Documentos/workspace/banking-service/src/main/java/com/alura/agencias/domain/http/AgenciaHttp.java
+/home/gustavo/Documentos/workspace/banking-service/src/main/java/com/alura/agencias/domain/http/SituacaoCadastral.java
+/home/gustavo/Documentos/workspace/banking-service/src/main/java/com/alura/agencias/exception/AgenciaNaoAtivaOuNaoEncontradaException.java
+/home/gustavo/Documentos/workspace/banking-service/src/main/java/com/alura/agencias/repository/AgenciaRepository.java
+/home/gustavo/Documentos/workspace/banking-service/src/main/java/com/alura/agencias/service/AgenciaService.java
+/home/gustavo/Documentos/workspace/banking-service/src/main/java/com/alura/agencias/service/http/SituacaoCadastralHttpService.java
