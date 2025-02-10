@@ -8,7 +8,7 @@ If you want to learn more about Quarkus, please visit its website: <https://quar
 
 A seguir os passo necessários para inicializar todo o ambiente dos microsserviços:
 
-1. No diretório **banking-validation**
+1. No diretório [**banking-validation**](https://github.com/joao0212/banking-validation.git)
     - docker-compose up  
 
 2. No diretório **banking-service**
